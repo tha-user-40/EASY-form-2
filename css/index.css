@@ -1,0 +1,16 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+#main_page {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #404040;
+  margin: 15px;
+  padding: 0px;
+}
+
+#main_page .centered {
+  max-width: 900px;
+  margin: 0 auto;
+}
